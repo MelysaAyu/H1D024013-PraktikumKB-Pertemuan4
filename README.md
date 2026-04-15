@@ -1,4 +1,5 @@
 H1D024013-PraktikumKB-Pertemuan4
+
 DESKRIPSI PROGRAM
 Program ini adalah Sistem Pakar berbasis Python yang mampu mendiagnosa kerusakan pada komputer atau laptop berdasarkan gejala-gejala yang dimasukkan oleh pengguna. Program menggunakan metode Certainty Factor (CF) untuk mengukur tingkat keyakinan dari setiap kemungkinan kerusakan, lalu menampilkan hasil diagnosa beserta solusi penanganannya.
 
